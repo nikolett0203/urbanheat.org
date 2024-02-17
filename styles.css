@@ -1,0 +1,30 @@
+body {
+    background-color: #0C1F2C;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+p{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h1 {
+    color: #81980D;
+    text-align: center;
+    font-size: 48px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    display: block;
+    margin: 0 auto;
+    text-align: center;  
+    color: #81980D;
+}
+
+/* ORANGE: #FF8C2B */
